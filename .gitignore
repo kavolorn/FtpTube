@@ -1,2 +1,4 @@
 *.avi
 logs
+android_libvlc/outputs/*
+junk/*
